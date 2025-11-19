@@ -13,12 +13,4 @@ Users should be able to:
 
 ![](screenshot.jpg)
 
-### Links
-
-- Solution URL: [https://github.com/Alexandru-Enescu/responsive-article-preview](https://github.com/Alexandru-Enescu/responsive-article-preview)
-- Live Site URL: [https://alexandru-enescu.github.io/responsive-article-preview/](https://alexandru-enescu.github.io/responsive-article-preview/)
-
-## Author
-
-- Frontend Mentor - [@Alexandru-Enescu](https://www.frontendmentor.io/profile/Alexandru-Enescu)
-- GitHub - [@Alexandru-Enescu](https://github.com/Alexandru-Enescu)
+Live Site URL: [https://alexandru-enescu.github.io/responsive-article-preview/](https://alexandru-enescu.github.io/responsive-article-preview/)
